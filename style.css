@@ -1,0 +1,43 @@
+body {
+  font-family: 'Helvetica', 'Arial', sans-serif;
+}
+
+.code{
+  margin-bottom: 2px;
+}
+
+.text1 {
+  font-size: 36px;
+  font-weight: bold;
+  color: red;
+  padding-right: 3px;
+}
+
+.text2 {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.text3 {
+  font-size: 36px;
+  font-weight: bold;
+  color: white;
+  background-color: red;
+  padding: 5px 5px 5px 5px;
+}
+
+.text4 {
+  font-size: 36px;
+  font-weight: bold;
+  color: red;
+  padding-left: 3px;
+}
+
+.text5 {
+  font-size: 20px;
+  color: grey;
+  letter-spacing: 15px;
+  padding-left: 20px;
+  text-decoration: overline;
+  text-decoration-thickness: 1px;
+}
